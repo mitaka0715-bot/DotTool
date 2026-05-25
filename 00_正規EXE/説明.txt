@@ -1,0 +1,13 @@
+DotTool
+
+ドット絵ツールのEXE管理場所です。
+
+正規EXE:
+DotTool.exe
+
+コピー元:
+OneDrive\Desktop\ドット絵ツール\DotTool.exe
+
+配置日:
+2026-05-24
+
